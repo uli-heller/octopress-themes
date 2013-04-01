@@ -9,7 +9,8 @@ This project contains my personal octopress themes. They are derived from these 
 ## Installation
 
 ```
-cp -a uli .../octopress/.themes
-cd .../octopress
+OCTOPRESS=".../octopress" # Absolute path of your octopress folder
+cp -a uli "${OCTOPRESS}/.themes"
+cd "${OCTOPRESS}"
 rake install['uli']
 ```
