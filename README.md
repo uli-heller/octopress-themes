@@ -2,9 +2,9 @@
 
 This project contains my personal octopress themes. They are derived from these sources:
 
-* xxx
+* octopress/.themes/classic
 
-* yyy
+The modifications have been originally described here: [http://aijazansari.com/2012/08/27/how-to-customize-octopress-theme/](http://aijazansari.com/2012/08/27/how-to-customize-octopress-theme/)
 
 ## Installation
 
